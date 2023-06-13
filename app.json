@@ -1,0 +1,33 @@
+{
+  "id": "3e1d9df0-9382-4f8b-9f41-031aeca95e33",
+  "name": "Cronus",
+  "publisher": "Grvppe",
+  "version": "21.5.0.6",
+  "brief": "Programming in Dynamics 365 Business Central",
+  "description": "Introduction to the basics of AL programming in Dynamics 365 Business Central",
+  "privacyStatement": "https://www.grvppe.com/politicas-de-privacidade",
+  "EULA": "https://www.grvppe.com",
+  "help": "https://www.grvppe.com/dynamics-br-loc-current-version/",
+  "url": "https://www.grvppe.com",
+  "logo": "./logo/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "21.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "preprocessorSymbols": ["DEBUG"]
+}
