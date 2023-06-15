@@ -1,0 +1,730 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="Cronus" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="body" datatype="resx">
+        <trans-unit id="Table 4255471889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Flow Provision Trans</source>
+          <target state="translated">Transações de Provisão de Fluxo de Caixa</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Transações de Provisão de Fluxo de Caixa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Valor</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Valor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Código da Moeda</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Código da Moeda</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descrição</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Descrição</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="translated">nº do documento</target>
+          <note from="Developer" annotates="general" priority="2">pt-br:N.do documento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target state="translated">Data de Vencimento</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Data de Vencimento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 985039452 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="translated">Data</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Data</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Trans. Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4255471889 - Field 3004939264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target state="translated">Tipo de Transação</target>
+          <note from="Developer" annotates="general" priority="2">pt-br:Tipo de Transação</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CrnCashFlowProvisionTrans - Field Trans. Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2457847864 - Method 1106349119 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>X=%1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CrnInteractionFunctions - Method RandomFunc - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2457847864 - Method 3044690548 - NamedType 3672157149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value of %1 is %2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CrnInteractionFunctions - Method ShowMessage - NamedType TheValueOfTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 1959752538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Armstrong Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnArmstrongCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Flow Provision Trans</source>
+          <target state="translated">Transações de Provisão de Fluxo de Caixa</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Transações de Provisão de Fluxo de Caixa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field.</source>
+          <target state="translated">Valor</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Valor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency Code field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target state="translated">Descrição</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Descrição</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document No. field.</source>
+          <target state="translated">nº Documento</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Nº do Documento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Due Date field.</source>
+          <target state="translated">Data de Vencimento</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Data de Vencimento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 985039452 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <target state="translated">Data</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Data</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Trans. Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4255471889 - Control 3004939264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Transaction Type field.</source>
+          <target state="translated">Tipo de Transação</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Tipo de Transação</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTrans - Control Trans. Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Flow Provision Trans API</source>
+          <target state="translated">API Transações de Provisão de Fluxo de Caixa</target>
+          <note from="Developer" annotates="general" priority="2">PTB=API Transações de Provisão de Fluxo de Caixa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 1121446808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Valor</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Valor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 1808640270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control currencyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 4232699882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descrição</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Descrição</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 73228906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="translated">nº documento</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Nº do Documento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control documentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 2763176388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target state="translated">Data de Vencimento</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Data de Vencimento</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control dueDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 3092263724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control systemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 1701998946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="translated">Data</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Data</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control transDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 853043881 - Control 1124413630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target state="translated">Tipo de Transação</target>
+          <note from="Developer" annotates="general" priority="2">PTB=Tipo de Transação</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCashFlowProvisionTransAPI - Control transType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Test Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 1382950949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run CrnCodeunitInternalAccess</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action InternalAccess - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 1382950949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Internal Access</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action InternalAccess - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 2117953751 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run CrnCodeunitPublicAccess</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action PublicAccess - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 2117953751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Public Access</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action PublicAccess - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 117987607 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run CrnSymbols</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action Symbols - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 117987607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Symbols</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action Symbols - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 3027648925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Types</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action DataTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 4075710125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to view default values of data types.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action DefaultValues - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 4075710125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Values</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action DefaultValues - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 126786532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enums &amp; Options </source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action EnumsOptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 4107432770 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to view the color selected.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action SelectEnumColor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 4107432770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Enum Color</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action SelectEnumColor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 1063834530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to view the color selected.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action SelectOptionColor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 1063834530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Enum Color</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action SelectOptionColor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 4026275365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interactions Functions</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action InteractionFunctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 1743207804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run Confirm function.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action ConfirmFunction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 1743207804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm Function</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action ConfirmFunction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 85706694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run Error function.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action ErrorFunction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 85706694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Function</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action ErrorFunction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 3742343547 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run Message function.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action MessageFunction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 3742343547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Messaga Function</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action MessageFunction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 2279438232 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run StrMenu function.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action StrMenuFunction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 23745076 - Action 2279438232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StrMenu Function</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnCodeTestCard - Action StrMenuFunction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expressions Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 151815974 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value1.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Value1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value1</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 2533693419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value2.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Value2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value2</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The result of the operation.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Result - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Action 1561766673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to calculate the result.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Action Execute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2594841982 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnExpressionsCard - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1113933864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proteced Var Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnProtectedVarCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1113933864 - Control 25700210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnProtectedVarCard - Control Balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1113933864 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer's name.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnProtectedVarCard - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statements Card</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 1623047485 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the Difficulty.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Difficulty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 494089240 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Suggestion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Control 494089240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Control Suggestion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 3454738801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Statements</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action RunStatements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 412809441 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run a For Down To statement.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action ForDownToStatement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 412809441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For Down To</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action ForDownToStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 4016627595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run a Foreach statement.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action ForeachStatement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 4016627595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreach</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action ForeachStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 1508113554 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run a For statement.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action ForStatement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 1508113554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action ForStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 2825320404 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run a Repeat Until statement.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action RepeatUntilStatement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 2825320404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repeat Until</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action RepeatUntilStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 742994414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to run a While statement.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action WhileStatement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 490524511 - Action 742994414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>While</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CrnStatementsCard - Action WhileStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Flow Provision Transactions</source>
+          <target state="translated">Relatório de Fluxo de caixa</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Relatório de Fluxo de caixa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLabel 266656143" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="translated">Página</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Página</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLabel PageLabel</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLabel 850394020" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Flow Provision Transactions</source>
+          <target state="translated">Relatório de Fluxo de caixa</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Relatório de Fluxo de caixa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLabel ReportTitleLabel</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLayout 1381681195 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report .*xlsx</source>
+          <target state="translated">Relatório .*xlsx</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Relatório .*xlsx</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLayout CashFlowProvisionTransExcelReport - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLayout 1381681195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel file</source>
+          <target state="translated">Arquivlo EXCEL</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Arquivlo EXCEL</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLayout CashFlowProvisionTransExcelReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLayout 3103134288 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report .*rdl</source>
+          <target state="translated">Relatório .*rdl</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Relatório .*rdl</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLayout CashFlowProvisionTransRDLReport - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLayout 3103134288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RDLC file</source>
+          <target state="translated">Arquivlo RDLC</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Arquivlo RDLC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLayout CashFlowProvisionTransRDLReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLayout 273266500 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report .*docx</source>
+          <target state="translated">Relatório .*docx</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Relatório .*docx</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLayout CashFlowProvisionTransWordReport - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 4255471889 - ReportLayout 273266500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Word file</source>
+          <target state="translated">Arquivlo WORD</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Arquivlo WORD</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCashFlowProvisionTrans - ReportLayout CashFlowProvisionTransWordReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1129198969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CrnCustLedgerEntry</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnCustLedgerEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 721016605 - Control 509823907 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hide Blocked Customers?</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleDataItemsJoin - Control FldHideBlockedCustomers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 721016605 - Control 509823907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hide Blocked Customers?</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleDataItemsJoin - Control FldHideBlockedCustomers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3830381302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CrnExampleEXCELLayout</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleEXCELLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3830381302 - ReportLayout 118198759 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of an EXCEL Layout.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleEXCELLayout - ReportLayout ExampleEXCELLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 3830381302 - ReportLayout 118198759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExampleEXCELLayout</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleEXCELLayout - ReportLayout ExampleEXCELLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2238962048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CrnExampleRDLCLayout</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleRDLCLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2238962048 - ReportLayout 4239979109 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of an RDLC Layout.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleRDLCLayout - ReportLayout CrnExample_RDLCLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 2238962048 - ReportLayout 4239979109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Example_RDLCLayout</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleRDLCLayout - ReportLayout CrnExample_RDLCLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 450069669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CrnExampleWORDLayout</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleWORDLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 450069669 - ReportLayout 911743136 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of a WORD Layout.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleWORDLayout - ReportLayout ExampleWORDLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 450069669 - ReportLayout 911743136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExampleWORDLayout</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnExampleWORDLayout - ReportLayout ExampleWORDLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 870701127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Standard Cost</source>
+          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2">PTB=Custo Padrão de Itens</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnInventoryStandardCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 870701127 - ReportLabel 1877187315" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnInventoryStandardCost - ReportLabel PageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 870701127 - ReportLabel 3040577680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Standard Cost</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnInventoryStandardCost - ReportLabel ReportTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 870701127 - ReportLabel 2410138484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnInventoryStandardCost - ReportLabel TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 870701127 - ReportLayout 971705645 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Standard Cost Report</source>
+          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2">PTB= Relatório Custo Padrão de Itens.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnInventoryStandardCost - ReportLayout InventoryStandardCostRDLC - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 870701127 - ReportLayout 971705645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Standard Cost</source>
+          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2">PTB=Custo Padrão de Itens</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnInventoryStandardCost - ReportLayout InventoryStandardCostRDLC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LAB Customer List</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - ReportLayout 1525523358 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of an Excel Layout.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - ReportLayout Example_EXCELLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - ReportLayout 1525523358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LABCustomerList</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - ReportLayout Example_EXCELLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - ReportLayout 1016795576 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of an RDLC Layout.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - ReportLayout Example_RDLCLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - ReportLayout 1016795576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LABCustomerList</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - ReportLayout Example_RDLCLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - ReportLayout 1343539805 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An example of an WORD Layout.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - ReportLayout Example_WORDLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 1414568938 - ReportLayout 1343539805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LABCustomerList</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CrnLABCustomerList - ReportLayout Example_WORDLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1646610407 - Action 870701127 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Inventory Standard Cost</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CrnBusinessManagerRoleCenter - Action CrnInventoryStandardCost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1646610407 - Action 870701127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Standard Cost</source>
+          <target state="translated">Custo Padrão Inventário</target>
+          <note from="Developer" annotates="general" priority="2">PTB=</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CrnBusinessManagerRoleCenter - Action CrnInventoryStandardCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2449300171 - Control 4239513174 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the gross weight of one unit of the item. In the purchase statistics window, the gross weight on the line is included in the total gross weight of all the lines for the particular purchase document.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CrnPurchaseLines - Control Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2449300171 - Control 3088522385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the net weight of one unit of the item. In the purchase statistics window, the net weight on the line is included in the total net weight of all the lines for the particular purchase document.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CrnPurchaseLines - Control Net Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2677018622 - Control 3591566932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Gross Weight field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CrnPurchaseOrder - Control Total Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2677018622 - Control 3347408175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Total Net Weight field.</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CrnPurchaseOrder - Control Total Net Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 410433701 - Field 3591566932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Gross Weight</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CrnPurchaseHeader - Field Total Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 410433701 - Field 3347408175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Net Weight</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CrnPurchaseHeader - Field Total Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1147072352 - Field 3591566932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Gross Weight</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CrPurchaseLine - Field Total Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1147072352 - Field 3347408175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Net Weight</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CrPurchaseLine - Field Total Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1315417946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target state="translated">Tipo de Transação</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Tipo de Transação</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CrnCashFlowTransType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1315417946 - EnumValue 333721067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expense Provision</source>
+          <target state="translated">Provisão de Despesa</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Provisão de Despesa</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CrnCashFlowTransType - EnumValue Expense Provision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1315417946 - EnumValue 1517276591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt Provision</source>
+          <target state="translated">Provisão de Receita</target>
+          <note from="Developer" annotates="general" priority="2">pt-br: Provisão de Receita</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CrnCashFlowTransType - EnumValue Receipt Provision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905243038 - EnumValue 2899644277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Green</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CrnColor - EnumValue Green - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905243038 - EnumValue 3750225965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Red</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CrnColor - EnumValue Red - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905243038 - EnumValue 2012424656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yellow</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CrnColor - EnumValue Yellow - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

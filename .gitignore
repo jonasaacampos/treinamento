@@ -10,11 +10,10 @@ launch.json
 .alcache/
 .alpackages/
 .altemplates/
-*.g.xlf
 out/
 launch.json.local
 rad.json
-*.xlf
+#*.xlf
 
 samples/AdminCenterApi/PowerShell/lib
 
