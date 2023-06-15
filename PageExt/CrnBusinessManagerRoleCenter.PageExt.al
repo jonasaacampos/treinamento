@@ -7,10 +7,12 @@ pageextension 50103 CrnBusinessManagerRoleCenter extends "Business Manager Role 
             action(CrnInventoryStandardCost)
             {
                 ApplicationArea = All;
-                Caption = 'Inventory Standard Cost', Comment='PTB=';
+                Caption = 'Inventory Standard Cost', Comment = 'PTB=';
                 RunObject = Report CrnInventoryStandardCost;
                 ToolTip = 'View Inventory Standard Cost';
             }
         }
+
+
     }
 }
