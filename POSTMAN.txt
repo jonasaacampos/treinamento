@@ -1,0 +1,17 @@
+http://172.16.10.25:7048/jaac/api/grvppe/cronus/v1.0/cashFlowProvisionTransSet
+
+{
+    "transType": "1",
+    "transDate": "2023-07-14",
+    "documentNo": "NFD004",
+    "description": "Despesas de Viagem",
+    "dueDate": "2023-08-14",
+    "currencyCode": "BRL",
+    "amount": 100.00
+}
+
+http://172.16.10.25:7048/jaac/api/grvppe/cronus/v1.0/cashFlowProvisionTransSet(0fbd8587-150b-ee11-b70d-00155d3e7d0f)
+
+header
+if-macth : @odata.etag
+
