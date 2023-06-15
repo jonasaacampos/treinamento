@@ -1,25 +1,19 @@
-codeunit 50106 CrnValidations
+codeunit 50107 CrnValidations
 {
     trigger OnRun()
     begin
 
     end;
 
-
     [EventSubscriber(ObjectType::Table, Database::Customer, 'OnAfterValidateEvent', 'Address', false, false)]
-    local procedure TableCustomerOnAfterValidateEventAddress(var Rec: Record Customer)
+    local procedure TableCustomerOnAfterValidateAddress(var Rec: Record Customer)
     begin
         CheckForPlusSign(Rec.Address);
     end;
 
-
     local procedure CheckForPlusSign(TextToVerify: Text)
-    var
-        myInt: Integer;
     begin
         if TextToVerify.Contains('+') then
             Message('A + sign has been found.');
     end;
-
-
 }

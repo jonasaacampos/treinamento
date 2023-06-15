@@ -1,9 +1,9 @@
-report 50101 CrnExampleRDLCLayout
+report 50103 CrnExampleEXCELLayout
 {
-    Caption = 'ExampleRDLCLayout';
+    Caption = 'CrnExampleEXCELLayout';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    DefaultRenderingLayout = Example_RDLCLayout;
+    DefaultRenderingLayout = ExampleEXCELLayout;
 
     dataset
     {
@@ -18,12 +18,12 @@ report 50101 CrnExampleRDLCLayout
 
     rendering
     {
-        layout(Example_RDLCLayout)
+        layout(ExampleEXCELLayout)
         {
-            Type = RDLC;
-            LayoutFile = './ReportsLayout/CrnExample_RDLCLayout.rdl';
-            Caption = 'Example_RDLCLayout';
-            Summary = 'An example of an RDLC Layout.';
+            Type = Excel;
+            LayoutFile = './ReportLayout/CrnExampleEXCELLayout.xlsx';
+            Caption = 'ExampleEXCELLayout';
+            Summary = 'An example of an EXCEL Layout.';
         }
     }
 }

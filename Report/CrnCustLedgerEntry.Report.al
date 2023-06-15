@@ -1,9 +1,9 @@
-report 50100 CustLedgerEntry
+report 50100 CrnCustLedgerEntry
 {
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    RDLCLayout = 'ReportsLayout/CustLedgerEntry.rdl';
-    Caption = 'CustLedgerEntry';
+    RDLCLayout = 'ReportLayout/CrnCustLedgerEntry.rdl';
+    Caption = 'CrnCustLedgerEntry';
 
     dataset
     {
@@ -28,5 +28,4 @@ report 50100 CustLedgerEntry
             }
         }
     }
-
 }

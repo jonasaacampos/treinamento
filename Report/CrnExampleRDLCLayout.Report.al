@@ -1,9 +1,9 @@
-report 50102 CrnExampleWORDLayout
+report 50101 CrnExampleRDLCLayout
 {
-    Caption = 'ExampleWORDLayout';
+    Caption = 'CrnExampleRDLCLayout';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    DefaultRenderingLayout = ExampleWORDLayout;
+    DefaultRenderingLayout = CrnExample_RDLCLayout;
 
     dataset
     {
@@ -18,12 +18,12 @@ report 50102 CrnExampleWORDLayout
 
     rendering
     {
-        layout(ExampleWORDLayout)
+        layout(CrnExample_RDLCLayout)
         {
-            Type = Word;
-            LayoutFile = './ReportsLayout/ExampleWORDLayout.docx';
-            Caption = 'ExampleWORDLayout';
-            Summary = 'An example of a WORD Layout.';
+            Type = RDLC;
+            LayoutFile = './ReportLayout/CrnExample_RDLCLayout.rdl';
+            Caption = 'Example_RDLCLayout';
+            Summary = 'An example of an RDLC Layout.';
         }
     }
 }

@@ -49,7 +49,7 @@ codeunit 50104 CrnInteractionFunctions
         Message('%1', CalcDate('-1Q', Today()));
     end;
 
-    procedure RandomFun()
+    procedure RandomFunc()
     var
         x: Integer;
         Text000: Label 'X=%1';

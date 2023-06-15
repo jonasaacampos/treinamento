@@ -31,21 +31,21 @@ report 50104 CrnLABCustomerList
         layout(Example_RDLCLayout)
         {
             Type = RDLC;
-            LayoutFile = './ReportsLayout/LABCustomerList.rdl';
+            LayoutFile = './ReportLayout/CrnLABCustomerList.rdl';
             Caption = 'LABCustomerList';
             Summary = 'An example of an RDLC Layout.';
         }
         layout(Example_WORDLayout)
         {
             Type = Word;
-            LayoutFile = './ReportsLayout/Example_WORDLayout.docx';
+            LayoutFile = './ReportLayout/CrnLABCustomerList.docx';
             Caption = 'LABCustomerList';
             Summary = 'An example of an WORD Layout.';
         }
         layout(Example_EXCELLayout)
         {
             Type = Excel;
-            LayoutFile = './ReportsLayout/Example_EXCELLayout.xlsx';
+            LayoutFile = './ReportLayout/CrnLABCustomerList.xlsx';
             Caption = 'LABCustomerList';
             Summary = 'An example of an Excel Layout.';
         }

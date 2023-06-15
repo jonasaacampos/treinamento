@@ -23,32 +23,59 @@
     </ReportSection>
   </ReportSections>
   <ReportParameters>
-    <ReportParameter Name="NoCaption">
+    <ReportParameter Name="PageLbl">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>NoCaption</Value>
+          <Value>PageLbl</Value>
         </Values>
       </DefaultValue>
-      <Prompt>NoCaption</Prompt>
+      <Prompt>PageLbl</Prompt>
     </ReportParameter>
-    <ReportParameter Name="NameCaption">
+    <ReportParameter Name="ReportTitleLbl">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>NameCaption</Value>
+          <Value>ReportTitleLbl</Value>
         </Values>
       </DefaultValue>
-      <Prompt>NameCaption</Prompt>
+      <Prompt>ReportTitleLbl</Prompt>
     </ReportParameter>
-    <ReportParameter Name="BalanceCaption">
+    <ReportParameter Name="TotalLbl">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>BalanceCaption</Value>
+          <Value>TotalLbl</Value>
         </Values>
       </DefaultValue>
-      <Prompt>BalanceCaption</Prompt>
+      <Prompt>TotalLbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="No_ItemCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>No_ItemCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>No_ItemCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Description_ItemCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Description_ItemCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Description_ItemCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="StandardCost_ItemCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>StandardCost_ItemCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>StandardCost_ItemCaption</Prompt>
     </ReportParameter>
   </ReportParameters>
   <Code>Public Function BlankZero(ByVal Value As Decimal)
@@ -93,17 +120,20 @@ End Function
   <DataSets>
     <DataSet Name="DataSet_Result">
       <Fields>
-        <Field Name="No">
-          <DataField>No</DataField>
+        <Field Name="COMPANYNAME">
+          <DataField>COMPANYNAME</DataField>
         </Field>
-        <Field Name="Name">
-          <DataField>Name</DataField>
+        <Field Name="No_Item">
+          <DataField>No_Item</DataField>
         </Field>
-        <Field Name="Balance">
-          <DataField>Balance</DataField>
+        <Field Name="Description_Item">
+          <DataField>Description_Item</DataField>
         </Field>
-        <Field Name="BalanceFormat">
-          <DataField>BalanceFormat</DataField>
+        <Field Name="StandardCost_Item">
+          <DataField>StandardCost_Item</DataField>
+        </Field>
+        <Field Name="StandardCost_ItemFormat">
+          <DataField>StandardCost_ItemFormat</DataField>
         </Field>
       </Fields>
       <Query>

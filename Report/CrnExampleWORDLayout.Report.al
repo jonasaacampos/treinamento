@@ -1,9 +1,9 @@
-report 50103 CrnExampleEXCELLayout
+report 50102 CrnExampleWORDLayout
 {
-    Caption = 'CrnExampleEXCELLayout';
+    Caption = 'CrnExampleWORDLayout';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    DefaultRenderingLayout = CrnExampleEXCELLayout;
+    DefaultRenderingLayout = ExampleWORDLayout;
 
     dataset
     {
@@ -18,12 +18,12 @@ report 50103 CrnExampleEXCELLayout
 
     rendering
     {
-        layout(CrnExampleEXCELLayout)
+        layout(ExampleWORDLayout)
         {
-            Type = Excel;
-            LayoutFile = './ReportsLayout/CrnExampleEXCELLayout.xlsx';
-            Caption = 'ExampleEXCELLayout';
-            Summary = 'An example of an EXCEL Layout.';
+            Type = Word;
+            LayoutFile = './ReportLayout/CrnExampleWORDLayout.docx';
+            Caption = 'ExampleWORDLayout';
+            Summary = 'An example of a WORD Layout.';
         }
     }
 }

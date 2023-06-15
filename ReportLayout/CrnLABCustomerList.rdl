@@ -8,7 +8,7 @@
         <ConnectString />
       </ConnectionProperties>
       <rd:SecurityType>None</rd:SecurityType>
-      <rd:DataSourceID>601f3308-5a7b-4416-852f-6a29cd59de7a</rd:DataSourceID>
+      <rd:DataSourceID>af8291fb-1f5a-4597-a421-08642f1886aa</rd:DataSourceID>
     </DataSource>
   </DataSources>
   <ReportSections>
@@ -19,44 +19,50 @@
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>0.76389in</Width>
+                  <Width>1in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.69097in</Width>
+                  <Width>3.58333in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.47222in</Width>
-                </TablixColumn>
-                <TablixColumn>
-                  <Width>1.46875in</Width>
+                  <Width>1in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.34896in</Height>
+                  <Height>0.25in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="Textbox1">
+                        <Textbox Name="Textbox2">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>No Item</Value>
-                                  <Style />
+                                  <Value>No</Value>
+                                  <Style>
+                                    <FontSize>11pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Color>#666666</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style />
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox1</rd:DefaultName>
+                          <rd:DefaultName>Textbox2</rd:DefaultName>
                           <Style>
                             <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
                               <Color>LightGrey</Color>
                               <Style>Solid</Style>
-                            </Border>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <BackgroundColor>White</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -74,8 +80,12 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Description Item</Value>
-                                  <Style />
+                                  <Value>Name</Value>
+                                  <Style>
+                                    <FontSize>11pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Color>#666666</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style />
@@ -84,9 +94,14 @@
                           <rd:DefaultName>Textbox3</rd:DefaultName>
                           <Style>
                             <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
                               <Color>LightGrey</Color>
                               <Style>Solid</Style>
-                            </Border>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <BackgroundColor>White</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -104,8 +119,12 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Costing Method Item</Value>
-                                  <Style />
+                                  <Value>Balance</Value>
+                                  <Style>
+                                    <FontSize>11pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Color>#666666</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style />
@@ -114,39 +133,14 @@
                           <rd:DefaultName>Textbox5</rd:DefaultName>
                           <Style>
                             <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
                               <Color>LightGrey</Color>
                               <Style>Solid</Style>
-                            </Border>
-                            <PaddingLeft>2pt</PaddingLeft>
-                            <PaddingRight>2pt</PaddingRight>
-                            <PaddingTop>2pt</PaddingTop>
-                            <PaddingBottom>2pt</PaddingBottom>
-                          </Style>
-                        </Textbox>
-                      </CellContents>
-                    </TablixCell>
-                    <TablixCell>
-                      <CellContents>
-                        <Textbox Name="Textbox7">
-                          <CanGrow>true</CanGrow>
-                          <KeepTogether>true</KeepTogether>
-                          <Paragraphs>
-                            <Paragraph>
-                              <TextRuns>
-                                <TextRun>
-                                  <Value>Standard Cost Item</Value>
-                                  <Style />
-                                </TextRun>
-                              </TextRuns>
-                              <Style />
-                            </Paragraph>
-                          </Paragraphs>
-                          <rd:DefaultName>Textbox7</rd:DefaultName>
-                          <Style>
-                            <Border>
-                              <Color>LightGrey</Color>
-                              <Style>Solid</Style>
-                            </Border>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <BackgroundColor>White</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -158,30 +152,33 @@
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.34896in</Height>
+                  <Height>0.25in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="No_Item">
+                        <Textbox Name="No">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!No_Item.Value</Value>
-                                  <Style />
+                                  <Value>=Fields!No.Value</Value>
+                                  <Style>
+                                    <FontWeight>Normal</FontWeight>
+                                    <Color>#333333</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style />
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>No_Item</rd:DefaultName>
+                          <rd:DefaultName>No</rd:DefaultName>
                           <Style>
                             <Border>
-                              <Color>LightGrey</Color>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
+                            <BackgroundColor>White</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -192,26 +189,29 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="Description_Item">
+                        <Textbox Name="Name">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!Description_Item.Value</Value>
-                                  <Style />
+                                  <Value>=Fields!Name.Value</Value>
+                                  <Style>
+                                    <FontWeight>Normal</FontWeight>
+                                    <Color>#333333</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style />
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Description_Item</rd:DefaultName>
+                          <rd:DefaultName>Name</rd:DefaultName>
                           <Style>
                             <Border>
-                              <Color>LightGrey</Color>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
+                            <BackgroundColor>White</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -222,56 +222,29 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="CostingMethod_Item">
+                        <Textbox Name="Balance">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!CostingMethod_Item.Value</Value>
-                                  <Style />
+                                  <Value>=Fields!Balance.Value</Value>
+                                  <Style>
+                                    <FontWeight>Normal</FontWeight>
+                                    <Color>#333333</Color>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style />
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>CostingMethod_Item</rd:DefaultName>
+                          <rd:DefaultName>Balance</rd:DefaultName>
                           <Style>
                             <Border>
-                              <Color>LightGrey</Color>
-                              <Style>Solid</Style>
+                              <Style>None</Style>
                             </Border>
-                            <PaddingLeft>2pt</PaddingLeft>
-                            <PaddingRight>2pt</PaddingRight>
-                            <PaddingTop>2pt</PaddingTop>
-                            <PaddingBottom>2pt</PaddingBottom>
-                          </Style>
-                        </Textbox>
-                      </CellContents>
-                    </TablixCell>
-                    <TablixCell>
-                      <CellContents>
-                        <Textbox Name="StandardCost_Item">
-                          <CanGrow>true</CanGrow>
-                          <KeepTogether>true</KeepTogether>
-                          <Paragraphs>
-                            <Paragraph>
-                              <TextRuns>
-                                <TextRun>
-                                  <Value>=Fields!StandardCost_Item.Value</Value>
-                                  <Style />
-                                </TextRun>
-                              </TextRuns>
-                              <Style />
-                            </Paragraph>
-                          </Paragraphs>
-                          <rd:DefaultName>StandardCost_Item</rd:DefaultName>
-                          <Style>
-                            <Border>
-                              <Color>LightGrey</Color>
-                              <Style>Solid</Style>
-                            </Border>
+                            <BackgroundColor>White</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -289,7 +262,6 @@
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
-                <TablixMember />
               </TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -303,10 +275,10 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>DataSet_Result</DataSetName>
-            <Top>0.35292in</Top>
-            <Left>0.30083in</Left>
-            <Height>0.69792in</Height>
-            <Width>5.39583in</Width>
+            <Top>0in</Top>
+            <Left>0in</Left>
+            <Height>0.5in</Height>
+            <Width>5.58333in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -324,67 +296,53 @@
     </ReportSection>
   </ReportSections>
   <ReportParameters>
-    <ReportParameter Name="No_ItemCaption">
+    <ReportParameter Name="NoCaption">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>No_ItemCaption</Value>
+          <Value>NoCaption</Value>
         </Values>
       </DefaultValue>
-      <Prompt>No_ItemCaption</Prompt>
+      <Prompt>NoCaption</Prompt>
     </ReportParameter>
-    <ReportParameter Name="Description_ItemCaption">
+    <ReportParameter Name="NameCaption">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>Description_ItemCaption</Value>
+          <Value>NameCaption</Value>
         </Values>
       </DefaultValue>
-      <Prompt>Description_ItemCaption</Prompt>
+      <Prompt>NameCaption</Prompt>
     </ReportParameter>
-    <ReportParameter Name="CostingMethod_ItemCaption">
+    <ReportParameter Name="BalanceCaption">
       <DataType>String</DataType>
       <DefaultValue>
         <Values>
-          <Value>CostingMethod_ItemCaption</Value>
+          <Value>BalanceCaption</Value>
         </Values>
       </DefaultValue>
-      <Prompt>CostingMethod_ItemCaption</Prompt>
-    </ReportParameter>
-    <ReportParameter Name="StandardCost_ItemCaption">
-      <DataType>String</DataType>
-      <DefaultValue>
-        <Values>
-          <Value>StandardCost_ItemCaption</Value>
-        </Values>
-      </DefaultValue>
-      <Prompt>StandardCost_ItemCaption</Prompt>
+      <Prompt>BalanceCaption</Prompt>
     </ReportParameter>
   </ReportParameters>
   <ReportParametersLayout>
     <GridLayoutDefinition>
       <NumberOfColumns>1</NumberOfColumns>
-      <NumberOfRows>4</NumberOfRows>
+      <NumberOfRows>3</NumberOfRows>
       <CellDefinitions>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>0</RowIndex>
-          <ParameterName>No_ItemCaption</ParameterName>
+          <ParameterName>NoCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>1</RowIndex>
-          <ParameterName>Description_ItemCaption</ParameterName>
+          <ParameterName>NameCaption</ParameterName>
         </CellDefinition>
         <CellDefinition>
           <ColumnIndex>0</ColumnIndex>
           <RowIndex>2</RowIndex>
-          <ParameterName>CostingMethod_ItemCaption</ParameterName>
-        </CellDefinition>
-        <CellDefinition>
-          <ColumnIndex>0</ColumnIndex>
-          <RowIndex>3</RowIndex>
-          <ParameterName>StandardCost_ItemCaption</ParameterName>
+          <ParameterName>BalanceCaption</ParameterName>
         </CellDefinition>
       </CellDefinitions>
     </GridLayoutDefinition>
@@ -431,20 +389,17 @@ End Function
   <DataSets>
     <DataSet Name="DataSet_Result">
       <Fields>
-        <Field Name="No_Item">
-          <DataField>No_Item</DataField>
+        <Field Name="No">
+          <DataField>No</DataField>
         </Field>
-        <Field Name="Description_Item">
-          <DataField>Description_Item</DataField>
+        <Field Name="Name">
+          <DataField>Name</DataField>
         </Field>
-        <Field Name="CostingMethod_Item">
-          <DataField>CostingMethod_Item</DataField>
+        <Field Name="Balance">
+          <DataField>Balance</DataField>
         </Field>
-        <Field Name="StandardCost_Item">
-          <DataField>StandardCost_Item</DataField>
-        </Field>
-        <Field Name="StandardCost_ItemFormat">
-          <DataField>StandardCost_ItemFormat</DataField>
+        <Field Name="BalanceFormat">
+          <DataField>BalanceFormat</DataField>
         </Field>
       </Fields>
       <Query>

@@ -2,7 +2,7 @@ report 50105 CrnExampleDataItemsJoin
 {
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    RDLCLayout = './ReportsLayout/CrnExampleDataItemsJoin.rdl';
+    RDLCLayout = './ReportLayout/CrnExampleDataItemsJoin.rdl';
     DefaultLayout = RDLC;
 
     dataset
@@ -23,6 +23,7 @@ report 50105 CrnExampleDataItemsJoin
             {
                 IncludeCaption = true;
             }
+
             dataitem(CustomerLedgers; "Cust. Ledger Entry")
             {
                 DataItemLinkReference = Customer;
@@ -57,7 +58,7 @@ report 50105 CrnExampleDataItemsJoin
                     {
                         ApplicationArea = All;
                         Caption = 'Hide Blocked Customers?';
-                        ToolTip = '...';
+                        ToolTip = 'Hide Blocked Customers?';
                     }
                 }
             }
